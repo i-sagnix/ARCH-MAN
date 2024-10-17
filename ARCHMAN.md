@@ -70,17 +70,10 @@ You can add    exec-once = hyprpm reload -n    to your hyprland config to have p
 For all options of hyprpm, run hyprpm -h.
 
 
-SYS-INFO / BENCHMARK
+SYS-INFO / SYS-MONITOR
     neofetch
-    cpufetch4
+    cpufetch
     btop
-    nvtop
-    radeontop
-    amdgpu_top
-    s-tui -cpubench
-    unigine-superposition -gpubench
-    vkmark -vulkan 
-    glmark2 -openGL
 
 FUN
     cava
