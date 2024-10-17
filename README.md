@@ -7,4 +7,4 @@ NOTE: this is a work in progress and is continually updated.
       
 [ARCHMAN.md]  
 - ARCH Manual with basic command tips.  
-  Look up the raw file.
+  Read the markdown file in code mode.
