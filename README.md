@@ -6,3 +6,4 @@ NOTE: this is a work in progress and is continually updated
 
 [ARCHMAN.md]
   ARCH Manual with basic command tips
+  look up the raw file
